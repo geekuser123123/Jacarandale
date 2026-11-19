@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://jacarandale.kevin-c4h.workers.dev', // no trailing slash — confirm after first Cloudflare deploy
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'hvBF8B1bDPnYgvPZB2nMyxBmY6aVSsze6-pyUokIKSo', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
